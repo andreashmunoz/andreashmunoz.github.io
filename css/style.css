@@ -1,0 +1,39 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * fort:
+ *   - http://typekit.com/eulas/00000000000000007735f23c
+ * logic-monospace:
+ *   - http://typekit.com/eulas/00000000000000007735f26d
+ *   - http://typekit.com/eulas/00000000000000007735f275
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-02-09 23:24:21 UTC"}*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: "font", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+p, body {
+    font-family: "logic-monospace", monospace;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.container {
+    position: absolute;
+    width: 66.67vw;
+    margin-left: 13.67vw;
+    margin-right:13.67vw;
+}
